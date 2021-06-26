@@ -42,12 +42,11 @@
   1. marker
 
 - Order of pseudo-classes:
+
   1. hover
   1. click
 
----
-
-Order of properties:
+- Order of properties:
 
 ```css
 .class {
